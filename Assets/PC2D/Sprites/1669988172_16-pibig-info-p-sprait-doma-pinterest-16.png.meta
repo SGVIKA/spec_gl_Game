@@ -1,0 +1,2105 @@
+fileFormatVersion: 2
+guid: fcb0e538b4d1d5b4b8e72759d795c1e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 907
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5686e66f024014fbedd588f97251f3
+      internalID: 961287459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 907
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36633cba6d8dc5a4199f754d744129c4
+      internalID: -997792805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 907
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a4fa63c0af794689873ba8e2ba70d
+      internalID: -1198036940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 907
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd4dc9081cd26f4d9121becdb7d8804
+      internalID: -332305802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 907
+        width: 238
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6f42d88bc42c46947334d58a0be7e
+      internalID: -1372219989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 907
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936feeba04c863541a839f2c3e4facd9
+      internalID: -616434653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_6
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 907
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631bc7e01ecc154e84ad60e52821fb0
+      internalID: 1210188906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 907
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9116ba7bacd764ab589c151d5271aa
+      internalID: -762218790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_8
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 907
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dbd86a65ea28341817e3405c782857
+      internalID: -1806956756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 807
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7761826e3d918147b21b75dab14822b
+      internalID: -88909880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 807
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bc9ccf63906eb48acf9a8941d62df8
+      internalID: 998304516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 807
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b65a6b030ee934ba92a5ed99170122
+      internalID: 1886548025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 807
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416b4be675a47ed47a9d97de45029bc7
+      internalID: -893500796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 807
+        width: 238
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac2a76f52fe524d830852544f0ba52
+      internalID: 398352153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 807
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefdae201925d244db57faeb4023e420
+      internalID: 1869022378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_15
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 807
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a73ce65af8f52441b3b0ca40592af36
+      internalID: 1114755416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_16
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 807
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c9d1f8b3f34544bb8c054b74566f69
+      internalID: 1987404162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_17
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 807
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87615c3c664b4254595e6346e729b29d
+      internalID: 800004265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 707
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db20a09de95f5440bb01d5a3e70f32f
+      internalID: 1343945752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 707
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f277b8dcd3b5624c84acd13964a4629
+      internalID: -737533614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 707
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c432ba226bf6c4aa7bfd6849bda4de
+      internalID: -1692103878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 707
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca8d45664cc4094dab2a2a22c55f441
+      internalID: -1205134469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 707
+        width: 238
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ed20e2a4039184a9cd853d95f4d799
+      internalID: 525784291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 707
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adbd33b58411d9478dadbacdcc151d4
+      internalID: -2070636768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_24
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 707
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96011d3b0956564381c2a499422595d
+      internalID: -1179165945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_25
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 707
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119c21d2e0da6e34f97924a87f24327d
+      internalID: 1267697151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_26
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 707
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22eb900d61703f478a39a8fc231ee73
+      internalID: 971606398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 607
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d22ba2a3b52a43b7eecc1c8aa7a5a
+      internalID: -1561557649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 607
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3884e48730a3748a779d2f6f0ec6ea
+      internalID: 1452619262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 607
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b76a24deac5a74c8a81a527d9fb84c
+      internalID: 1810121083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_30
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 607
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd826c68ab3f84cb89e4e89ff4d5cb
+      internalID: -1319001432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 607
+        width: 238
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893483824f129b24fb78ea0ca1f0270f
+      internalID: 668559261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 607
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72365ed13883c9545ab48a53f1540150
+      internalID: -4814970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_33
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 607
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e64526b49d444e9c1756af4c361cc
+      internalID: -360150374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_34
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 607
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ebcb76480a0cf4c98d29ec53eb549a
+      internalID: -867372151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_35
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 607
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875c9b3dc3874640aed5822aee8454d
+      internalID: -1165838681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 506
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ab0dadacc58049a4d47a79fde612d
+      internalID: -1880830716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 506
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3404a8f199d4104e8e9387ad6d0a787
+      internalID: -1014266411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 506
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775bf5c6a3dc25d4c9a2c05a284db7e7
+      internalID: -1921520529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 506
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81acda7e7f6d2194581e7bd4f29becd4
+      internalID: -1533633567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 506
+        width: 238
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940098c813e770439d9f851e02ae399
+      internalID: -1647953026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 506
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a9dd7a4cf51044a1aac308df47a46
+      internalID: 448951442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_42
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 506
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612a24c9c7f6cc4e9e90b8df606543f
+      internalID: 2014832262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_43
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 506
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29715a323213b54429a61d62950314b0
+      internalID: 1635917218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_44
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 506
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045343afae8f70a43a24a39b9864f37e
+      internalID: 1749092356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 406
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4409666474598404d8468edfdcced4ae
+      internalID: 1760656671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 406
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f155008ba573de5448108e608f81f9f1
+      internalID: -502632315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 406
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5269753e02cae8489a5c5fdedffbaa2
+      internalID: -1565865500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 406
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c370ec4fa76aca4286523842300d0a6
+      internalID: 1626150314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_49
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 407
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2207cedbe94ab2b43b200fce3d64b3d4
+      internalID: -2065410456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_50
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 406
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8035fee9cfb2544b00a87cfd2b26a0
+      internalID: -1545239446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_51
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 406
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5c962b4abdbf49a3b925e846dc8f5
+      internalID: -1492565004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_52
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 406
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a8fbc6be7d084ead3476c21e51bef
+      internalID: -1125485298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_53
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 406
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50442da44391bd149afa5cdd7bb9020f
+      internalID: -1247411761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f9ca1a553d9144a5a707e965a7abb
+      internalID: -1057334105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 306
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311f271c5e611242ad5351e346ebbfc
+      internalID: -2031751420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 306
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4b8f2cadc8d649a6dc1581c59983f
+      internalID: 1837898090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_57
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 306
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877754492176d9d478eb25088c2b2319
+      internalID: -1776082935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 306
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87066d8bb93fa6479134eeb226e1c47
+      internalID: 2025908731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_59
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 306
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3750f761b5eba3f4b8641f61208428ff
+      internalID: -1184467799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_60
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 306
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d81edc25a447634f9518e73925b3ed1
+      internalID: 376062279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_61
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 306
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c7f987393dd74189a45f784a1652e
+      internalID: 30185936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 206
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28048c338974f0e4cab5dca83560e766
+      internalID: 2119717485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_63
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 206
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff090a0f3fc48cf479a5350ea42e134c
+      internalID: 1659351265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 206
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3763113b76daea479fcf4454f3ee4fd
+      internalID: -983717854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_65
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 206
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbf1ea7cb00d849adb0e5b44d9e78c
+      internalID: 254619804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 206
+        width: 238
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd701caeabf1804398668fab7cd0607
+      internalID: 197384428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_67
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 206
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f841cd9dc3b744ad6c4d287de92a3
+      internalID: -368257422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_68
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 206
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca15fb5f4448ae47aca8984a05b0a9e
+      internalID: 1119464602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_69
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 206
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da05a000325f474f9ff806c89ea918f
+      internalID: 1735938131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_70
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 206
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76f50d180a00ca419d2c72b3721bea6
+      internalID: 1456294644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31edd3ae7630e48a47cdd0670f1dfe
+      internalID: 1048717456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebe750db977f664197f94fe23fce55f
+      internalID: 1748266986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 106
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b127d9b8410b864dbd56b3ded5ced6d
+      internalID: 54198210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 106
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbdea38b205bd84c8ab0f60d40ec143
+      internalID: -1596115412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_75
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 106
+        width: 238
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808cc01e89e8e144ad09ca03f3cd5de
+      internalID: -268561491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_76
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 106
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd60d189b4830449b08ff6ecf639b2f
+      internalID: -1862431839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_77
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 106
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5b7b0e100c5924fb257e99b0c6c9f1
+      internalID: 819953674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_78
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 106
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1739531c0e3994d94bcef248151703
+      internalID: 145712484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_79
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 106
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c523ae14b5f3584680ac471de911ef5
+      internalID: 1531219600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511e32b73ea299448a1e1d16c4ae13c
+      internalID: 1181170326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_81
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b1dc6d1df373f448d2031bfac2ace7
+      internalID: 1450792271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_82
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b09077245899694aa6f40531b96d3ec
+      internalID: -1469115560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 5
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199e275f0fef01429f5259bdbee74bb
+      internalID: 459117714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_84
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 5
+        width: 238
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49e1c66ebe05e4ab22cfba67212ed1
+      internalID: -728284207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_85
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa9e974f1e5164da58093f0083b821
+      internalID: -762244491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_86
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 5
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1841b99880474398c16fda89eaa2a
+      internalID: -2043782207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_87
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 5
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d929c70ca9d8a14aa154bb6518f92b5
+      internalID: 597436931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669988172_16-pibig-info-p-sprait-doma-pinterest-16_88
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 5
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dcb138b16caa245b3cc2847b5a5dd0
+      internalID: 1842569158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_0: 961287459
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_1: -997792805
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_10: 998304516
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_11: 1886548025
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_12: -893500796
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_13: 398352153
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_14: 1869022378
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_15: 1114755416
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_16: 1987404162
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_17: 800004265
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_18: 1343945752
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_19: -737533614
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_2: -1198036940
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_20: -1692103878
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_21: -1205134469
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_22: 525784291
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_23: -2070636768
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_24: -1179165945
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_25: 1267697151
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_26: 971606398
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_27: -1561557649
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_28: 1452619262
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_29: 1810121083
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_3: -332305802
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_30: -1319001432
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_31: 668559261
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_32: -4814970
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_33: -360150374
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_34: -867372151
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_35: -1165838681
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_36: -1880830716
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_37: -1014266411
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_38: -1921520529
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_39: -1533633567
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_4: -1372219989
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_40: -1647953026
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_41: 448951442
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_42: 2014832262
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_43: 1635917218
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_44: 1749092356
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_45: 1760656671
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_46: -502632315
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_47: -1565865500
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_48: 1626150314
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_49: -2065410456
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_5: -616434653
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_50: -1545239446
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_51: -1492565004
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_52: -1125485298
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_53: -1247411761
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_54: -1057334105
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_55: -2031751420
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_56: 1837898090
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_57: -1776082935
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_58: 2025908731
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_59: -1184467799
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_6: 1210188906
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_60: 376062279
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_61: 30185936
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_62: 2119717485
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_63: 1659351265
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_64: -983717854
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_65: 254619804
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_66: 197384428
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_67: -368257422
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_68: 1119464602
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_69: 1735938131
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_7: -762218790
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_70: 1456294644
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_71: 1048717456
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_72: 1748266986
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_73: 54198210
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_74: -1596115412
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_75: -268561491
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_76: -1862431839
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_77: 819953674
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_78: 145712484
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_79: 1531219600
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_8: -1806956756
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_80: 1181170326
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_81: 1450792271
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_82: -1469115560
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_83: 459117714
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_84: -728284207
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_85: -762244491
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_86: -2043782207
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_87: 597436931
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_88: 1842569158
+      1669988172_16-pibig-info-p-sprait-doma-pinterest-16_9: -88909880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
